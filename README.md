@@ -47,6 +47,8 @@ It is likely that companies or educational facilities would adopt this project a
 
 ## Dataflow Diagram
 
+![Data Flow Diagram](./docs/DataFlow.jpg)
+
 
 
 ## Application Architecture Diagram
@@ -87,3 +89,14 @@ Here's what my Trello board looked like before starting the project, it's set ou
 
 ![Trello Board screenshot at beginning of project](./docs/trello-start.png)
 
+
+
+Here's what the board looked like a bit later on in the project.
+
+![Trello Board later in the project](./docs/Trello-later.png)
+
+
+
+Here's what my board looks like at the end of the project
+
+![Trello board at the end of the project](./docs/Trello-done.png)
