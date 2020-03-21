@@ -65,7 +65,21 @@ It is likely that companies or educational facilities would adopt this project a
 
 ## Wireframes
 
+### Index Page Wireframe
 
+![](./docs/Index-Wireframe.png)
+
+
+
+### Login Page Wireframe
+
+![](./docs/Login-Wireframe.png)
+
+
+
+### Dictionary Page Wireframe
+
+![](./docs/Dictionary-Wireframe.png)
 
 ## Trello Board
 
